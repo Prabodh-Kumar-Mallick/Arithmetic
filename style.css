@@ -24,6 +24,11 @@ border: none;
 font-size: 50px;
 font-weight: 700;
 }
+
+button:hover{
+
+   color: gold;
+}
 ooo{
     display: grid;
     place-items: center;
