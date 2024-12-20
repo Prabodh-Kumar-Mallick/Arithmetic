@@ -1,0 +1,33 @@
+#counter{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#first{
+    display: grid;
+    place-items: center;
+    padding: 20%;
+}
+
+#second{
+   display: flex;
+   flex-wrap: wrap;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+button{
+    color: red;
+    background-color: black;
+width: 100px;
+border: none;
+font-size: 50px;
+font-weight: 700;
+}
+ooo{
+    display: grid;
+    place-items: center;
+    border: 2px solid red;
+    width: 70px;
+    height: 50px;
+}
